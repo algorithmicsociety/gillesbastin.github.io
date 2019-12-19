@@ -57,7 +57,7 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 [23] Gilles Bastin et Paola Tubaro, « Le moment big data des sciences sociales ». _Revue française de sociologie_, Centre National de la Recherche Scientifique, 2018, Big data, sociétés et sciences sociales, 59 (3), pp.375-394 ([hal-01885416](https://hal.archives-ouvertes.fr/hal-01885416/)).
 
-[22] Gilles Bastin, « Le journalisme et les sciences sociales : trouble ou problème ? », _Sur le Journalisme / On Journalism / Sobre Jornalismo_, 5(2), 2016, p. 44-63 ([http://surlejournalisme.com/rev/index.php/slj/article/view/256](http://surlejournalisme.com/rev/index.php/slj/article/view/256)).
+[22] Gilles Bastin, « Le journalisme et les sciences sociales : trouble ou problème ? », _Sur le Journalisme / On Journalism / Sobre Jornalismo_, 5(2), 2016, p. 44-63 ([hal-01525594](https://halshs.archives-ouvertes.fr/halshs-01525594v1) ; [http://surlejournalisme.com/rev/index.php/slj/article/view/256](http://surlejournalisme.com/rev/index.php/slj/article/view/256)).
 
 [21] Gilles Bastin et Jean-Marc Francony, « L’inscription, le masque et la donnée. Datafication du web et conflits d’interprétation autour des données dans un laboratoire invisible des sciences sociales », _Revue d’Anthropologie des connaissances_, 10(4), 2016, p. 505-530 ([hal-01490598](https://halshs.archives-ouvertes.fr/halshs-01490598) ; [https://www.cairn.info/revue-anthropologie-des-connaissances-2016-4-page-505.htm](https://www.cairn.info/revue-anthropologie-des-connaissances-2016-4-page-505.htm)).
 
